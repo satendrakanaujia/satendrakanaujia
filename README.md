@@ -6,7 +6,7 @@ I am always eager to learn, embrace new challenges, and strongly believe in the 
 
 
 **Laguage, Tools and Softwares:**
-https://www.zinet.in/Content/images/solutions/koha.jpg
+![image](https://github.com/user-attachments/assets/512b5b1f-0ecc-4cb3-aef9-44dddb68e6e5)
 
 
 **Projects**
