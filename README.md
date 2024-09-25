@@ -7,7 +7,8 @@ I am always eager to learn, embrace new challenges, and strongly believe in the 
 
 **Laguage, Tools and Softwares:**
 
-![image](https://github.com/user-attachments/assets/512b5b1f-0ecc-4cb3-aef9-44dddb68e6e5)
+![image](https://github.com/user-attachments/assets/4424ab4b-9c8c-45d7-bbbd-d134ecd5db1a)
+
 
 
 **Projects**
