@@ -7,8 +7,8 @@ I am always eager to learn, embrace new challenges, and strongly believe in the 
 
 **Laguage, Tools and Softwares:**
 
-![image](https://github.com/user-attachments/assets/4424ab4b-9c8c-45d7-bbbd-d134ecd5db1a) ![image](https://github.com/user-attachments/assets/fedcb328-bd33-4e4d-9cea-f71933a5983a)
-<img height="75px" width="100px" src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/dbdc31c9-632a-4fad-9c5c-1648df68ebd8"> 
+<img height="50px" width="100px" src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/14947769-cb70-4375-b4fb-17896a88b79e"> <img height="75px" width="100px" src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/dbdc31c9-632a-4fad-9c5c-1648df68ebd8"> <img src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/5b8f12e9-9151-4a29-9ee0-91dab2ea977d" height="50px" width="150px"> <br><br>
+
 
 
 
