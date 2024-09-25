@@ -7,14 +7,16 @@ I am always eager to learn, embrace new challenges, and strongly believe in the 
 
 **Laguage, Tools and Softwares:**
 
-![image](https://github.com/user-attachments/assets/4424ab4b-9c8c-45d7-bbbd-d134ecd5db1a)
+![image](https://github.com/user-attachments/assets/4424ab4b-9c8c-45d7-bbbd-d134ecd5db1a) ![image](https://github.com/user-attachments/assets/fedcb328-bd33-4e4d-9cea-f71933a5983a)
+
+
 
 
 
 **Projects**
 
 - Implementation of Digital Repository Service Using DSpace at, National Law University, Lucknow.
-- 
+
 <!--
 Here are some ideas to get you started:
 
