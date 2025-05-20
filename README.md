@@ -9,8 +9,7 @@ I am always eager to learn, embrace new challenges, and strongly believe in the 
 
 <img height="50px" width="100px" src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/14947769-cb70-4375-b4fb-17896a88b79e"> <img height="75px" width="100px" src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/dbdc31c9-632a-4fad-9c5c-1648df68ebd8"> <img src="https://github.com/aravindrnair05/aravindrnair05/assets/49126622/5b8f12e9-9151-4a29-9ee0-91dab2ea977d" height="50px" width="150px"> <br><br> 
 <img height="50px" width="100px" src="https://www.equinoxoli.org/wp-content/uploads/2022/02/vufind-logo-vector.svg">
-<img height="50px" width="100px" src="https://www.equinoxoli.org/wp-content/uploads/2021/07/Coral-ERM-Square-Logo-300x198.png"> <img height="50px" width="100px" src="https://www.wppourlesnuls.com/wp-content/uploads/2019/05/wordpress.gif"> <img height="50px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg">
-<img height="100px" width="150px" src="https://public.canva.site/logo/video/880b4225ad0f37556240783328b91306.jpg">
+<img height="50px" width="100px" src="https://www.equinoxoli.org/wp-content/uploads/2021/07/Coral-ERM-Square-Logo-300x198.png"> <img height="50px" width="100px" src="https://www.wppourlesnuls.com/wp-content/uploads/2019/05/wordpress.gif"> <img height="100px" width="150px" src="https://public.canva.site/logo/video/880b4225ad0f37556240783328b91306.jpg">
 
 
 
